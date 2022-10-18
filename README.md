@@ -4,7 +4,7 @@
 - **JavaScript**
   - [@pione3r](https://github.com/pione3r), [@nowrobin](https://github.com/nowrobin), [@coincidence-one](https://github.com/coincidence-one)
 - **Python**
-  - [@vivian0304](https://github.com/vivian0304), [@Chynmn](https://github.com/Chynmn), [@hyeonjin9819](https://github.com/hyeonjin9819), [@Kyoungmin1016](https://github.com/Kyoungmin1016)
+  - [@vivian0304](https://github.com/vivian0304), [@Chynmn](https://github.com/Chynmn), [@hyeonjin9819](https://github.com/hyeonjin9819), [@Kyoungmin1016](https://github.com/Kyoungmin1016), [@danflanf](https://github.com/danflanf)
   
 ## 🌏 코테 사이트
 - https://leetcode.com/
