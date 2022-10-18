@@ -32,7 +32,3 @@ Example 3.
 Input: s = "(]"
 Output: false
 
-
-
-
-
