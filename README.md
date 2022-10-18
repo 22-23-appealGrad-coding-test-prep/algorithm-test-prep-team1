@@ -2,7 +2,7 @@
 
 ## 💬 코테 준비 언어 선택
 - **JavaScript**
-  - [@pione3r](https://github.com/pione3r), 한정욱, [@coincidence-one](https://github.com/coincidence-one)
+  - [@pione3r](https://github.com/pione3r), [@nowrobin](https://github.com/nowrobin), [@coincidence-one](https://github.com/coincidence-one)
 - **Python**
   - [@vivian0304](https://github.com/vivian0304), [@Chynmn](https://github.com/Chynmn), [@hyeonjin9819](https://github.com/hyeonjin9819), [@Kyoungmin1016](https://github.com/Kyoungmin1016)
   
