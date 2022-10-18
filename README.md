@@ -33,5 +33,29 @@
                     |____문제파일 (문제번호.txt)
                     |____각자 코딩한 파일 (문제번호_푼사람이름.js, .py)
                  
-  
   ```
+  
+  ## 🌱 fork한 리포 최신화하는 방법
+  #### (1번과 2번은 한 번만 실행, 3번부터는 문제를 풀기 전/후 항상 실행)
+   1. organization 리포지토리(원본 리포로 지칭)를 fork한다.
+   
+   2. fork한 개인 리포를 로컬에 clone한다.
+   - 예시) git clone https://github.com/pione3r/algorithm-test-prep.git
+   3. 원본 리포를 로컬에 upstream 원격 저장소로 추가한다.
+   - git remote add upstream https://github.com/22-23-appealGrad-coding-test-prep/algorithm-test-prep.git
+   3. 문제를 풀기 전, 원본 리포의 내용을 로컬에 fetch한다.
+   - git fetch upstream
+   4. 로컬에 fetch한 내용을 merge한다.
+   - git merge upstream/main
+   5. 위에 설명한 디렉토리 구조대로 개인 리포에 소스 코드 파일을 위치시킨 후, commit하고 push한다.
+   - 문제 제출 커밋 예시 : [제출자이름/문제제출]1주차 동적프로그래밍 문제제출
+   - 문제 해결 커밋 예시 : [제출자이름/문제해결]1주차 동적프로그래밍 풀이완료    
+   - 문재 미해결 커밋 예시 : [제출자이름/문제미해결]1주차 동적프로그래밍 미해결
+   6. 개인 리포에서 원본 리포로 Pull Request(PR)를 올리고, 타 팀원은 코멘트에 코드 리뷰를 한다.
+   - 문제 제출 PR 예시 : [제출자이름/문제제출]1주차 동적프로그래밍 문제제출
+   - 문제 해결 PR 예시 : [제출자이름/문제해결]1주차 동적프로그래밍 풀이완료
+   - 문재 미해결 PR 예시 : [제출자이름/문제미해결]1주차 동적프로그래밍 미해결
+  
+  
+
+ 
