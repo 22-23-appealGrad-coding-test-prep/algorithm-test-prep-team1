@@ -2,9 +2,9 @@
 
 ## 💬 코테 준비 언어 선택
 - **JavaScript**
-  - @pione3r, 한정욱, 원우연
+  - [@pione3r](https://github.com/pione3r), 한정욱, 원우연
 - **Python**
-  - @Chynmn, @hyeonjin9819, @Kyoungmin1016, @vivian0304
+  - [@vivian0304](https://github.com/vivian0304), [@Chynmn](https://github.com/Chynmn), [@hyeonjin9819](https://github.com/hyeonjin9819), [@Kyoungmin1016](https://github.com/Kyoungmin1016)
   
 ## 🌏 코테 사이트
 - https://leetcode.com/
