@@ -2,10 +2,17 @@
 
 ## 💬 코테 준비 언어 선택
 - **JavaScript**
-  - [@pione3r](https://github.com/pione3r), [@nowrobin](https://github.com/nowrobin), [@coincidence-one](https://github.com/coincidence-one)
+  - [@pione3r](https://github.com/pione3r)
+  - [@nowrobin](https://github.com/nowrobin)
+  - [@coincidence-one](https://github.com/coincidence-one)
 
 - **Python**
-  - [@vivian0304](https://github.com/vivian0304), [@Chynmn](https://github.com/Chynmn), [@hyeonjin9819](https://github.com/hyeonjin9819), [@Kyoungmin1016](https://github.com/Kyoungmin1016), [@danflanf](https://github.com/danflanf)
+  - [@vivian0304](https://github.com/vivian0304)
+  - [@Chynmn](https://github.com/Chynmn)
+  - [@hyeonjin9819](https://github.com/hyeonjin9819)
+  - [@Kyoungmin1016](https://github.com/Kyoungmin1016)
+  - [@danflanf](https://github.com/danflanf)
+  - [@jung-yeon99](https://github.com/jung-yeon99)
   
 ## 🌏 코테 사이트
 - https://leetcode.com/
@@ -55,7 +62,7 @@
    6. 개인 리포에서 원본 리포로 Pull Request(PR)를 올리고, 타 팀원은 코멘트에 코드 리뷰를 한다.
    - 문제 제출 PR 예시 : [제출자이름/문제제출] 1주차 동적프로그래밍 문제제출
    - 문제 해결 코드 리뷰 요청 PR 예시 : [풀이자이름/코드리뷰요청] 1주차 코드 리뷰 요청
-   - 문재 미해결 PR 예시 : [풀이자이름/코드리뷰요청] 1주차 코드 리뷰 요청
+   - 문제 미해결 PR 예시 : [풀이자이름/코드리뷰요청] 1주차 코드 리뷰 요청
   
   
 
