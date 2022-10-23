@@ -1,9 +1,5 @@
 class Solution(object):
     def isValid(self, s: str) -> bool:
-        """
-        :type s: str
-        :rtype: bool
-        """
         stack = []
         brackets = {'}': '{', ')': '(', ']': '['}
         for bracket in s:
