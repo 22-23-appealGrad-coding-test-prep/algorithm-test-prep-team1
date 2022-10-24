@@ -6,3 +6,4 @@ class Solution(object):
                 return i
             
         return nums[-1] + 1
+        
