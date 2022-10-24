@@ -7,3 +7,4 @@ class Solution(object):
             
         return nums[-1] + 1
         
+print(set(range(11)))
