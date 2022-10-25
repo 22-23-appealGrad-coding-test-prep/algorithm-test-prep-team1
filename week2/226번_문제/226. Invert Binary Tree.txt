@@ -1,0 +1,58 @@
+문제 이름:
+226. Invert Binary Tree
+
+문제 설명:
+Given the root of a binary tree, invert the tree, and return its root.
+
+제약 조건:
+The number of nodes in the tree is in the range [0, 100].
+-100 <= Node.val <= 100
+
+###################################################################################################
+
+Example 1:
+Input: root = [4,2,7,1,3,6,9]
+Output: [4,7,2,9,6,3,1]
+
+###################################################################################################
+
+Input: root = [2,1,3]
+Output: [2,3,1]
+
+###################################################################################################
+
+Input: root = []
+Output: []
+
+###################################################################################################
+양식:
+
+[python3]
+
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
+
+###################################################################################################
+[js]
+
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val, left, right) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.left = (left===undefined ? null : left)
+ *     this.right = (right===undefined ? null : right)
+ * }
+ */
+/**
+ * @param {TreeNode} root
+ * @return {TreeNode}
+ */
+var invertTree = function(root) {
+
+};
