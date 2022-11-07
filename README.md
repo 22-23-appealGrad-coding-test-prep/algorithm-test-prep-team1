@@ -77,7 +77,7 @@
 * 세션 순서
   * `용준현` &rarr; `조현민` &rarr; `김정연` &rarr; `박수현` &rarr; `원우연` &rarr; `김현진` &rarr; `최정락` &rarr; `한정욱` &rarr; `강용민`
   * 세션 자료는 다음 드라이브에 저장
-  * https://drive.google.com/drive/folders/1Xk---OFQWpH1i_cBaGmYlkn3-ftVd30Z?usp=sharing
+  * https://drive.google.com/drive/folders/1Xk---OFQWpH1i_cBaGmYlkn3-ftVd30Z?usp=sharing?=
   
 
   
