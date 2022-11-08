@@ -76,7 +76,7 @@
 * 발표 내용은 기업 인터뷰에 나오는 주제들로 자유롭게 선정
 * 세션 순서
   * `용준현` &rarr; `조현민` &rarr; `김정연` &rarr; `박수현` &rarr; `원우연` &rarr; `김현진` &rarr; `최정락` &rarr; `한정욱` &rarr; `강용민`
-  * 세션 자료는 구글 드라이브에 저장
+  * 세션 자료는 구글 드라이브에 저장(https://drive.google.com/drive/folders/1Xk---OFQWpH1i_cBaGmYlkn3-ftVd30Z)
 
   
 ## 🌱 fork한 리포 최신화하는 방법
